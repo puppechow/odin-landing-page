@@ -52,7 +52,8 @@ button {
 }
 
 .main-text,
-.logo {
+.logo,
+button {
     color: #F9FAF8;
 }
 
@@ -70,6 +71,21 @@ a {
 
 p.secondary-text {
     margin-bottom: 8px;
+}
+
+button {
+    font-weight: 600;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+    border: none;
+    border-radius: .5em;
+}
+
+#btn-outline {
+    border: 2px solid;
+    border-color: #F9FAF8;
 }
 
 p, ul {
