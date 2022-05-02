@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 * {
     font-family: 'Roboto', sans-serif;
 }
@@ -102,5 +104,3 @@ ul {
 a {
     text-decoration: none;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
