@@ -23,9 +23,16 @@ button {
 
 .header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
-    padding-top: 8px;
+    padding-top: 16px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.hero {
+    display: flex;
+    padding: 10%;
 }
 
 .main-text {
