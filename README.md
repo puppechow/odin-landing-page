@@ -1,5 +1,7 @@
 ASSIGNMENT:                  Replicate the provided webpage design.
 
+ASSIGNED IMAGE:              https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png
+
 SKILLS DEMONSTRATED:         HTML and CSS
 
 
