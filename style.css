@@ -7,4 +7,17 @@ body {
     flex-direction: column;
 }
 
+.header, .hero, .footer {
+    background-color: #1F2937;
+}
+
+.quote-block {
+    background-color: #E5E7EB;
+}
+
+.call-to-action,
+button {
+    background-color: #3882F6;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
