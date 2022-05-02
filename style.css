@@ -80,9 +80,23 @@ body {
     align-self: flex-end;
 }
 
+.call-to-action {
+    margin: 10%;
+    padding: 5%;
+    border-radius: .5em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .call-to-action,
 button {
     background-color: #3882F6;
+}
+
+#call-head {
+    font-weight: bold;
+    font-size: 18px;
 }
 
 .header,
@@ -110,6 +124,7 @@ button {
 
 .main-text,
 .logo,
+.call-to-action,
 button {
     color: #F9FAF8;
 }
