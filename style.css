@@ -21,6 +21,37 @@ button {
     background-color: #3882F6;
 }
 
+.main-text {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.quote {
+    font-weight: 100;
+    font-style: italic;
+}
+
+.main-text,
+.logo {
+    color: #F9FAF8;
+}
+
+.secondary-text,
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.info-head,
+.quote-block {
+    font-size: 36px;
+    color: #1F2937
+}
+
 p, ul {
     padding: 0px;
     margin: 0px;
