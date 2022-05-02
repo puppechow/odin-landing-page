@@ -33,6 +33,8 @@ button {
 .hero {
     display: flex;
     padding: 10%;
+    justify-content: space-between;
+    gap: 2em;
 }
 
 .main-text {
@@ -64,6 +66,10 @@ a {
 .quote-block {
     font-size: 36px;
     color: #1F2937
+}
+
+p.secondary-text {
+    margin-bottom: 8px;
 }
 
 p, ul {
